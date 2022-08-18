@@ -33,12 +33,12 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
-	k8s.io/api v0.24.2
+	k8s.io/api v0.24.4
 	k8s.io/apiextensions-apiserver v0.24.0
-	k8s.io/apimachinery v0.24.2
+	k8s.io/apimachinery v0.24.4
 	k8s.io/apiserver v0.24.2
 	k8s.io/cli-runtime v0.24.2
-	k8s.io/client-go v0.24.2
+	k8s.io/client-go v0.24.4
 	k8s.io/klog/v2 v2.70.1
 	k8s.io/kubectl v0.24.2
 	oras.land/oras-go v1.2.0
